@@ -1,6 +1,8 @@
 # Assessment: Flexbox Cards
 
-To begin, **fork** the initial files from this repository.
+**PLEASE COMPLETE GITLAB MODULE PRIOR TO COMPLETING THIS ASSESSMENT**
+
+To begin, **fork and clone** the initial files from [this repository](https://gitlab.com/kenzie-academy/se_public_files/09_flexbox_cards).
 
 The included cards.css stylesheet is missing all the flexbox properties needed to create the layout shown below:
 
