@@ -14,5 +14,5 @@ If you are having trouble remembering the behavior of the various flexbox proper
 
 ### Submission
 Push your code into your GitLab repository and deploy it via GitLab pages. In Canvas, please submit your
-Gitlab Pages url (ex: https://username.gitlab.io/flexbox-cardsl/) and, in GitLab, add KA_Grading as a member on
+Gitlab Pages url (ex: https://username.gitlab.io/flexbox-cards/) and, in GitLab, add KA_Grading as a member on
 your project with "Reporter" permission.
