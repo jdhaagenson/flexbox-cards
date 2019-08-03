@@ -12,4 +12,7 @@ When you examine cards.css, you will find comments indicating which flex propert
 
 If you are having trouble remembering the behavior of the various flexbox properties, you may find it helpful to refer to the diagrams in [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
 
-Push your solution to your own GitLab repository, and submit the GitLab Page url below.
+### Submission
+Push your code into your GitLab repository and deploy it via GitLab pages. In Canvas, please submit your
+Gitlab Pages url (ex: https://username.gitlab.io/flexbox-cardsl/) and, in GitLab, add KA_Grading as a member on
+your project with "Reporter" permission.
